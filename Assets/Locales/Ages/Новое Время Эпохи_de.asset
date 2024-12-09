@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: "\u041D\u043E\u0432\u043E\u0435 \u0412\u0440\u0435\u043C\u044F \u042D\u043F\u043E\u0445\u0438_de"
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 8bcfdc26ae277304b843765bc24d8024, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9362474263511040
+    m_Localized: Musik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9362418579931136
+    m_Localized: klang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9362910106222592
+    m_Localized: Nochmals spielen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11017519104
+    m_Localized: Era der wissenschaftlichen Entdeckungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 717493501952
+    m_Localized: "Aufkl\xE4rung und Reformen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740780277760
+    m_Localized: "Fr\xFChe industrielle Periode"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 765035937792
+    m_Localized: Industrielle Revolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 835475079168
+    m_Localized: Wirtschaftswachstum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 873857155072
+    m_Localized: Entwicklung von Bildung und Kultur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 895298437120
+    m_Localized: Modernisierung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 912910319616
+    m_Localized: "Sp\xE4te industrielle Periode"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 959001526272
+    m_Localized: Ende des XIX Jahrhunderts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 982573514752
+    m_Localized: Erster Weltkrieg
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

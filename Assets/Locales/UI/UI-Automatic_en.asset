@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI-Automatic_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 435f00c2ca6e8f2468ed2ce2acb67d3d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1587006275584
+    m_Localized: Normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1707529601024
+    m_Localized: Philosopher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1889562394624
+    m_Localized: Cyborg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2796815515648
+    m_Localized: No benefits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3120280240128
+    m_Localized: "4\u0445\nfor sun"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3165410951168
+    m_Localized: '2x
+
+      per click'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9260477054976
+    m_Localized: Would you like to watch an ad to open The Chest as a reward?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10174172626944
+    m_Localized: watch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93944707940352
+    m_Localized: Delete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93969957650432
+    m_Localized: 'Delete ALL data and replay the game?
+
+
+
+      This action cannot
+      be undone!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 728499756335104
+    m_Localized: closed
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

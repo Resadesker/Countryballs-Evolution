@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: "\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 Shared Data"
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: "\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435"
+  m_TableCollectionNameGuidString: 6cfe3660bcbf1924c9bb8bb1ab747a64
+  m_Entries:
+  - m_Id: 49919688704
+    m_Key: "\u041F\u0435\u0440\u0432\u043E\u0435 \u0441\u043E\u043B\u043D\u044B\u0448\u043A\u043E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48116802912256
+    m_Key: firstJoin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48139699617792
+    m_Key: firstJoin2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52289447526400
+    m_Key: firstShop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52326705528832
+    m_Key: agesArrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112990815911936
+    m_Key: goodLuck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114910007787520
+    m_Key: donateArrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144409030164480
+    m_Key: machinesUnlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7290171040071680
+    m_Key: longNotSeen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7291063030120448
+    m_Key: byeText
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 914205603140993026
+  references:
+    version: 2
+    RefIds:
+    - rid: 914205603140993026
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1725702856429

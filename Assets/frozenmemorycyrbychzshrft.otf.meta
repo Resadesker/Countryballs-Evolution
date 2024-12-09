@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a5979e2d00f8f3843b5a80d69260d1b0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Frozen Memory Cyr (by chzshrft)
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 318b662339f6a3a489c55d0ffe465929, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

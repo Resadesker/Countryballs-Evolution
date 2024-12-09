@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a28a1073435b06940bc96447e5d8d304
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - RF Krabuler
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 16e0439aba73c044c821db1719db7276, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

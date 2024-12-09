@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: "\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435_en"
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6cfe3660bcbf1924c9bb8bb1ab747a64, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 49919688704
+    m_Localized: "This is a sun \u2013 by clicking on it, you get as many coins as
+      you have residents!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48139699617792
+    m_Localized: 'Let''s fix that!
+
+
+      By clicking on the screen, you earn coins
+      that you can use to buy new buildings!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48116802912256
+    m_Localized: 'Hi! Nice to meet you, I''m Greece!
+
+
+      As you can see, this
+      is an empty area, nobody lives here...'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52289447526400
+    m_Localized: This is a store, here you can buy buildings for your settlement.
+      Every new house gives you more money per click, and residential houses give
+      you residents!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52326705528832
+    m_Localized: Here you can track which historical era you are in.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112990815911936
+    m_Localized: "Now this is your territory and you're the only boss here! \n\nGood
+      luck to you!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114910007787520
+    m_Localized: In this store, you can buy various bonuses that will help you improve
+      your city faster!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144409030164480
+    m_Localized: You have unlocked the machines! The better your port, the more coins
+      you get by clicking on the ships.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7290171040071680
+    m_Localized: "Wow, long time no see! I see that you've finished building the
+      city. \n\nThat's impressive! Well, this is where our adventure ends..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7291063030120448
+    m_Localized: You have made a very cool city! If you want to try again, you can
+      find the button in the settings. See you next time!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

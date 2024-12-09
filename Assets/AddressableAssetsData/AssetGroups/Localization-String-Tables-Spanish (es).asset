@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Spanish (es)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Spanish (es)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 46af834bfdbb80a41b17be5de7916367
+  m_SerializeEntries:
+  - m_GUID: 11000da0ec61ba5469be1da54b6f84fe
+    m_Address: "\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u044C
+      \u042D\u043F\u043E\u0445\u0438_es"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    - Preload
+  - m_GUID: a23d16ad3a76fa841aadde6eca534b2d
+    m_Address: "\u0410\u043D\u0442\u0438\u0447\u043D\u043E\u0441\u0442\u044C \u042D\u043F\u043E\u0445\u0438_es"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    - Preload
+  - m_GUID: a500b0e88c81a3b4f93a414aae3000c2
+    m_Address: "\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435_es"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    - Preload
+  - m_GUID: b9f8f33fca1b0004e9dbc065cf566ea4
+    m_Address: "\u041F\u0435\u0440\u0432\u043E\u0431\u044B\u0442\u043D\u043E\u0441\u0442\u044C
+      \u042D\u043F\u043E\u0445\u0438_es"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    - Preload
+  - m_GUID: c3acfbbe67189f044a47704d4c6c2dc4
+    m_Address: "\u0421\u0440\u0435\u0434\u043D\u0435\u0432\u0435\u043A\u043E\u0432\u044C\u0435
+      \u042D\u043F\u043E\u0445\u0438_es"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    - Preload
+  - m_GUID: d0d8861ca5caaf144b73e05df7c75aea
+    m_Address: "\u041D\u043E\u0432\u043E\u0435 \u0412\u0440\u0435\u043C\u044F \u042D\u043F\u043E\u0445\u0438_es"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    - Preload
+  - m_GUID: da82d9de0688d0f49a383cb84e4201de
+    m_Address: UI-Automatic_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    - Preload
+  - m_GUID: de24aac27d0d3c74588ef1bd98384c2b
+    m_Address: Locales_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: a9e68051b2f5daf47a082d5c23e5cc5f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 48360cc7c2ddc174c93b96db3e04fb1f, type: 2}
+    - {fileID: 11400000, guid: d34b104928c11484d89ac2b471cd1a80, type: 2}

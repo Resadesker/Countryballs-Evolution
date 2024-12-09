@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: "\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435_de"
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 6cfe3660bcbf1924c9bb8bb1ab747a64, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 49919688704
+    m_Localized: "Das ist die Sonne \u2013 wenn du darauf klickst, erh\xE4ltst du
+      so viele M\xFCnzen, wie du Bewohner hast!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48139699617792
+    m_Localized: "Lass uns das \xE4ndern!\n\nDurch Klicken auf den Bildschirm erh\xE4ltst
+      du M\xFCnzen, mit denen du neue Geb\xE4ude kaufen kannst!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48116802912256
+    m_Localized: "Hallo! Sch\xF6n dich kennenzulernen, ich bin Griechenland!\n\nWie
+      du siehst, ist das eine leere Gegend, hier lebt niemand..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52289447526400
+    m_Localized: "Dies ist ein Laden, hier kannst du Geb\xE4ude f\xFCr deine Siedlung
+      kaufen. Jedes neue Haus bringt dir mehr Geld pro Klick und Wohnh\xE4user bringen
+      dir Bewohner!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52326705528832
+    m_Localized: "Hier kannst du verfolgen, in welcher historischen \xC4ra Sie sich
+      befinden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112990815911936
+    m_Localized: "Jetzt ist dies dein Territorium und der Chef hier bist nur du!
+      \n\nIch w\xFCnsche dir viel Gl\xFCck!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114910007787520
+    m_Localized: "In diesem Gesch\xE4ft kannst du verschiedene Boni kaufen, die Ihnen
+      helfen, Ihre Stadt schneller zu verbessern!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144409030164480
+    m_Localized: "Du hast die Maschinen freigeschaltet! Je besser dein Hafen ist,
+      desto mehr M\xFCnzen erh\xE4lst du, wenn du auf Schiffe klickst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7290171040071680
+    m_Localized: Wow, lange nicht gesehen! Ich sehe, dass du den Bau der Stadt abgeschlossen
+      hast. Das ist beeindruckend! Nun, hier endet unser Abenteuer...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7291063030120448
+    m_Localized: "Du hast eine sehr coole Stadt gemacht! Wenn du es noch einmal versuchen
+      m\xF6chtest, kannst du den Knopf in den Maschinen finden. Bis zum n\xE4chsten
+      Mal!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

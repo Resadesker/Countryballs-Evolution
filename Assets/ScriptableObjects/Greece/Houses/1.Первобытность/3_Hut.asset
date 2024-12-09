@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2463e189f3a946fcadc8b196699ea00a, type: 3}
+  m_Name: 3_Hut
+  m_EditorClassIdentifier: 
+  index: 3
+  title:
+    m_TableReference:
+      m_TableCollectionName: GUID:448c728061b121542a34c1526d90f776
+    m_TableEntryReference:
+      m_KeyId: 11722162176
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  label: "\u0425\u0438\u0436\u0438\u043D\u0430"
+  country: 0
+  levels:
+  - avatar: {fileID: 21300000, guid: 590b7a631bb388145afb2947bcadad4c, type: 3}
+    UI_avatar: {fileID: 21300000, guid: aa46293d8840e604e92152e74cfea48c, type: 3}
+    price: 2
+    animator: {fileID: 0}
+    newPeople: 30
+    income: 1
+  - avatar: {fileID: 21300000, guid: 35cdac95b94006b40b474942b409a586, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 35cdac95b94006b40b474942b409a586, type: 3}
+    price: 30
+    animator: {fileID: 0}
+    newPeople: 63
+    income: 2
+  - avatar: {fileID: 21300000, guid: b53170202d83b984cb92861c37a72cfe, type: 3}
+    UI_avatar: {fileID: 21300000, guid: b53170202d83b984cb92861c37a72cfe, type: 3}
+    price: 40
+    animator: {fileID: 0}
+    newPeople: 128
+    income: 3
+  - avatar: {fileID: 21300000, guid: 273f9f6750394d745b5b98fc19232147, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 273f9f6750394d745b5b98fc19232147, type: 3}
+    price: 50
+    animator: {fileID: 0}
+    newPeople: 300
+    income: 5
+  - avatar: {fileID: 21300000, guid: 403a3a0bb7c0831439dc3971bbb24ece, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 403a3a0bb7c0831439dc3971bbb24ece, type: 3}
+    price: 450
+    animator: {fileID: 0}
+    newPeople: 630
+    income: 11
+  - avatar: {fileID: 21300000, guid: f7c7bb71820f21c46ab97b6e78f6b9a9, type: 3}
+    UI_avatar: {fileID: 21300000, guid: f7c7bb71820f21c46ab97b6e78f6b9a9, type: 3}
+    price: 1900
+    animator: {fileID: 0}
+    newPeople: 1335
+    income: 56
+  - avatar: {fileID: 21300000, guid: 52e83c60f03602c46975e8beb002bf48, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 52e83c60f03602c46975e8beb002bf48, type: 3}
+    price: 6000
+    animator: {fileID: 0}
+    newPeople: 6825
+    income: 156
+  - avatar: {fileID: 21300000, guid: d4e91214326974143a8f6155751dd09a, type: 3}
+    UI_avatar: {fileID: 21300000, guid: d4e91214326974143a8f6155751dd09a, type: 3}
+    price: 10000
+    animator: {fileID: 0}
+    newPeople: 9630
+    income: 165
+  - avatar: {fileID: 21300000, guid: 3ee43e311ee65e64a99d1e7980d731d0, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 3ee43e311ee65e64a99d1e7980d731d0, type: 3}
+    price: 35000
+    animator: {fileID: 0}
+    newPeople: 15540
+    income: 174
+  - avatar: {fileID: 21300000, guid: 33a0aaf9417219646b69815c88cbcb82, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 33a0aaf9417219646b69815c88cbcb82, type: 3}
+    price: 73000
+    animator: {fileID: 0}
+    newPeople: 34500
+    income: 426
+  - avatar: {fileID: 21300000, guid: e5f77624d2a4d3a48baaeb77569ff829, type: 3}
+    UI_avatar: {fileID: 21300000, guid: e5f77624d2a4d3a48baaeb77569ff829, type: 3}
+    price: 143000
+    animator: {fileID: 0}
+    newPeople: 38895
+    income: 456
+  - avatar: {fileID: 21300000, guid: 51cbf7f4f41ed7f458e3d743e39aa5ba, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 51cbf7f4f41ed7f458e3d743e39aa5ba, type: 3}
+    price: 100000
+    animator: {fileID: 0}
+    newPeople: 90300
+    income: 503
+  - avatar: {fileID: 21300000, guid: 0e39de58889034948a67106a9c1816c5, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 0e39de58889034948a67106a9c1816c5, type: 3}
+    price: 1500000
+    animator: {fileID: 0}
+    newPeople: 2718000
+    income: 15000
+  - avatar: {fileID: 21300000, guid: 69c794be4cf8d3b4f920842f324618ce, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 69c794be4cf8d3b4f920842f324618ce, type: 3}
+    price: 65000000
+    animator: {fileID: 0}
+    newPeople: 120000000
+    income: 900000
+  - avatar: {fileID: 21300000, guid: f1f95faedc7753d4882bd409af1c1212, type: 3}
+    UI_avatar: {fileID: 21300000, guid: f1f95faedc7753d4882bd409af1c1212, type: 3}
+    price: 1000000000
+    animator: {fileID: 0}
+    newPeople: 450000000
+    income: 2000000
+  - avatar: {fileID: 21300000, guid: 45911ccbacaf5e64b9a0edbe83a430cd, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 45911ccbacaf5e64b9a0edbe83a430cd, type: 3}
+    price: 1500000000
+    animator: {fileID: 0}
+    newPeople: 705000000
+    income: 4000000
+  - avatar: {fileID: 21300000, guid: 939edd10df40ab54aae3f3129e979f7d, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 939edd10df40ab54aae3f3129e979f7d, type: 3}
+    price: 2200000000
+    animator: {fileID: 0}
+    newPeople: 1000000000
+    income: 6500000
+  - avatar: {fileID: 21300000, guid: 20abb84461a9d4a4cab35fe1858f8495, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 20abb84461a9d4a4cab35fe1858f8495, type: 3}
+    price: 3300000000
+    animator: {fileID: 0}
+    newPeople: 1400000000
+    income: 11500000
+  - avatar: {fileID: 21300000, guid: 16bdf2f8214e0424d9110e98dbe191e0, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 16bdf2f8214e0424d9110e98dbe191e0, type: 3}
+    price: 6600000000
+    animator: {fileID: 0}
+    newPeople: 3000000000
+    income: 26500000
+  - avatar: {fileID: 21300000, guid: 862c8c6de948c06428fd243d246125ac, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 862c8c6de948c06428fd243d246125ac, type: 3}
+    price: 29000000000
+    animator: {fileID: 0}
+    newPeople: 13000000000
+    income: 76500000
+  - avatar: {fileID: 21300000, guid: 8c336f9e1108377419a808bf8006bd82, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 8c336f9e1108377419a808bf8006bd82, type: 3}
+    price: 5000000000000
+    animator: {fileID: 0}
+    newPeople: 2325000000000
+    income: 45000000000
+  - avatar: {fileID: 21300000, guid: e356212f98b471943b1c82cb4892a18b, type: 3}
+    UI_avatar: {fileID: 21300000, guid: e356212f98b471943b1c82cb4892a18b, type: 3}
+    price: 115500000000000
+    animator: {fileID: 0}
+    newPeople: 52500000000000
+    income: 1000000000000
+  - avatar: {fileID: 21300000, guid: 8ae3fc3dbcbf00c4abdf228abbdaff2c, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 8ae3fc3dbcbf00c4abdf228abbdaff2c, type: 3}
+    price: 1500000000000000
+    animator: {fileID: 0}
+    newPeople: 600000000000000
+    income: 15000000000000
+  references:
+    version: 2
+    RefIds: []

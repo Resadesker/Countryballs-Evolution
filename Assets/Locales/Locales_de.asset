@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Locales_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 448c728061b121542a34c1526d90f776, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 914205492966850613
+  m_TableData:
+  - m_Id: 11722162176
+    m_Localized: "H\xFCtte"
+    m_Metadata:
+      m_Items:
+      - rid: 914205492966850613
+  - m_Id: 142953545728
+    m_Localized: Feuer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 300302860288
+    m_Localized: Kaserne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 587788845056
+    m_Localized: Bauernhof
+    m_Metadata:
+      m_Items: []
+  - m_Id: 640381222912
+    m_Localized: Feld
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649759686656
+    m_Localized: Gerber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 868207427584
+    m_Localized: Mine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 925082189824
+    m_Localized: Tempel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 970628136960
+    m_Localized: Schmiede
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1527992418304
+    m_Localized: Bibliothek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1967161212928
+    m_Localized: Hafen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1972773191680
+    m_Localized: Kartographentisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1977894436864
+    m_Localized: Keramik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3056312909824
+    m_Localized: Theater
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3497520136192
+    m_Localized: Schule
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3565795016704
+    m_Localized: Laden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3970805399552
+    m_Localized: Bad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4183007821824
+    m_Localized: "Gef\xE4ngnis"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4236111904768
+    m_Localized: "M\xFChle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4290440724480
+    m_Localized: Weingut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4507634368512
+    m_Localized: Bauherren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4764325773312
+    m_Localized: Arena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5073152376832
+    m_Localized: Optik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5156853907456
+    m_Localized: "Uhrengesch\xE4ft"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5217558069248
+    m_Localized: Druckmaschine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6338800386048
+    m_Localized: Autohaus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6622528274432
+    m_Localized: "Universit\xE4t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6729982148608
+    m_Localized: Elektronikladen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6815545950208
+    m_Localized: "\xD6lpumpe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6867454656512
+    m_Localized: Flughafen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6917735972864
+    m_Localized: Supermarkt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6962547916800
+    m_Localized: Solarpanel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7030206234624
+    m_Localized: Kernkraftwerk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7108551639040
+    m_Localized: Gasfackel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7169876557824
+    m_Localized: DNA-Labor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7243599839232
+    m_Localized: Fast Food
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7282694946816
+    m_Localized: Neuronales Netzwerk
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 914205492966850613
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0000b2ba02000000

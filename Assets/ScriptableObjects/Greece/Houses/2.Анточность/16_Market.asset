@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 958bd87ed9e444bcaa7d25943c2aed0d, type: 3}
+  m_Name: 16_Market
+  m_EditorClassIdentifier: 
+  index: 16
+  title:
+    m_TableReference:
+      m_TableCollectionName: GUID:448c728061b121542a34c1526d90f776
+    m_TableEntryReference:
+      m_KeyId: 3565795016704
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  label: "\u041C\u0430\u0433\u0430\u0437\u0438\u043D"
+  country: 0
+  levels:
+  - avatar: {fileID: 21300000, guid: f1e6f003c0cda2e4f98fb779bddccdaa, type: 3}
+    UI_avatar: {fileID: 21300000, guid: f1e6f003c0cda2e4f98fb779bddccdaa, type: 3}
+    price: 30000
+    animator: {fileID: 0}
+    income: 98
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: f902f24951dd33d4590c9f319311b345, type: 3}
+    UI_avatar: {fileID: 21300000, guid: f902f24951dd33d4590c9f319311b345, type: 3}
+    price: 34000000
+    animator: {fileID: 0}
+    income: 600000
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: a93bd40763e23534eb97fe634710f90e, type: 3}
+    UI_avatar: {fileID: 21300000, guid: a93bd40763e23534eb97fe634710f90e, type: 3}
+    price: 5000000000
+    animator: {fileID: 0}
+    income: 7600000
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: 2ea93ddf5fecd3f408ef9049d6b2cadc, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 2ea93ddf5fecd3f408ef9049d6b2cadc, type: 3}
+    price: 11500000000
+    animator: {fileID: 0}
+    income: 87600000
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: 1f74eb15247fc1540a2dc4845386b09e, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 1f74eb15247fc1540a2dc4845386b09e, type: 3}
+    price: 34000000000000
+    animator: {fileID: 0}
+    income: 300000000000
+    machineBonus: 0
+  references:
+    version: 2
+    RefIds: []

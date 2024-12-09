@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Locales_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 448c728061b121542a34c1526d90f776, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 914205492966850615
+  m_TableData:
+  - m_Id: 11722162176
+    m_Localized: Hut
+    m_Metadata:
+      m_Items:
+      - rid: 914205492966850615
+  - m_Id: 142953545728
+    m_Localized: Fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 300302860288
+    m_Localized: Barracks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 587788845056
+    m_Localized: Farm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 640381222912
+    m_Localized: Field
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649759686656
+    m_Localized: Leather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 868207427584
+    m_Localized: Mine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 925082189824
+    m_Localized: Temple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 970628136960
+    m_Localized: Forge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1527992418304
+    m_Localized: Library
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1977894436864
+    m_Localized: Ceramics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1967161212928
+    m_Localized: Port
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1972773191680
+    m_Localized: Cartography
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3056312909824
+    m_Localized: Theater
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3497520136192
+    m_Localized: School
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3565795016704
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3970805399552
+    m_Localized: Bath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4183007821824
+    m_Localized: Prison
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4236111904768
+    m_Localized: Mill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4290440724480
+    m_Localized: Vineyard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4507634368512
+    m_Localized: Builders
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4764325773312
+    m_Localized: Arena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5073152376832
+    m_Localized: Optics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5156853907456
+    m_Localized: Clock Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5217558069248
+    m_Localized: Printing Machine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6338800386048
+    m_Localized: Car Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6622528274432
+    m_Localized: University
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6729982148608
+    m_Localized: Electronics Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6815545950208
+    m_Localized: Oil Pump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6867454656512
+    m_Localized: Airport
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6917735972864
+    m_Localized: Supermarket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6962547916800
+    m_Localized: Solar Panel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7030206234624
+    m_Localized: Nuclear Plant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7108551639040
+    m_Localized: Gas Flare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7169876557824
+    m_Localized: DNA Laboratory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7243599839232
+    m_Localized: Fastfood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7282694946816
+    m_Localized: Neural Network
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 914205492966850615
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0000b2ba02000000

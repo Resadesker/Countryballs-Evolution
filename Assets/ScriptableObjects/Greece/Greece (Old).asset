@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d3fec4f618c0eb4bbbb2208819e13eb, type: 3}
+  m_Name: Greece (Old)
+  m_EditorClassIdentifier: 
+  name: 
+  ages:
+  - name: "\u041F\u0435\u0440\u0432\u043E\u0431\u044B\u0442\u043D\u043E\u0441\u0442\u044C"
+    avatar: {fileID: 21300000, guid: 99d1cfa167c50144f99649ecbb4b4ba5, type: 3}
+    eras:
+    - name: "\u0420\u0430\u043D\u043D\u0438\u0439 \u043F\u0430\u043B\u0435\u043E\u043B\u0438\u0442"
+      avatar: {fileID: 1922164812, guid: 4fae95210a25ea742ab64fa4970eb009, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 2f938018e0dc710498158da8a4c74e18, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 260a4d860b532d04191a7c6003e8f3f1, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u041F\u043E\u0437\u0434\u043D\u0438\u0439 \u043F\u0430\u043B\u0435\u043E\u043B\u0438\u0442"
+      avatar: {fileID: -235740185, guid: 4fae95210a25ea742ab64fa4970eb009, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 2
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 48f12f68561530649877f9372ccc93b0, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u041C\u0435\u0437\u043E\u043B\u0438\u0442"
+      avatar: {fileID: -1863354089, guid: 4fae95210a25ea742ab64fa4970eb009, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 3f76c85771a54ad4eafad9272b59115b, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 1
+    - name: "\u0420\u0430\u043D\u043D\u0438\u0439 \u043D\u0435\u043E\u043B\u0438\u0442"
+      avatar: {fileID: -362820302, guid: 4fae95210a25ea742ab64fa4970eb009, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: bd3536c7962581342964f738568f5571, type: 2}
+        amount: 2
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 2
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 260a4d860b532d04191a7c6003e8f3f1, type: 2}
+        amount: 0
+        IsNextLevel: 1
+    - name: "\u041F\u043E\u0437\u0434\u043D\u0438\u0439 \u043D\u0435\u043E\u043B\u0438\u0442"
+      avatar: {fileID: 189706353, guid: 4fae95210a25ea742ab64fa4970eb009, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: ae1211b3da07cfa42b7fb351f9771038, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 1
+    - name: "\u041C\u0435\u0434\u043D\u044B\u0439 \u0432\u0435\u043A"
+      avatar: {fileID: 21300000, guid: e3e1f5c41699ef04a84efbe2ffb89998, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u0420\u0430\u043D\u043D\u0438\u0439 \u0431\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439
+        \u0432\u0435\u043A"
+      avatar: {fileID: 21300000, guid: 48bf7ba5f8599f64f83737b46edcffd4, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: acaeacc406bd1e147ace34879a982b78, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 55e3e525bc2d26244a5b71c362c5519b, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 1
+    - name: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439 \u0431\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439
+        \u0432\u0435\u043A"
+      avatar: {fileID: 21300000, guid: b36f8650688522d4a9b77b4ba36c0f18, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: acaeacc406bd1e147ace34879a982b78, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 2f938018e0dc710498158da8a4c74e18, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 1
+        IsNextLevel: 1
+    - name: "\u041F\u043E\u0437\u0434\u043D\u0438\u0439 \u0431\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439
+        \u0432\u0435\u043A"
+      avatar: {fileID: 21300000, guid: bf3b96f18f1c3a94ca698d99418a38fc, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: acaeacc406bd1e147ace34879a982b78, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 55e3e525bc2d26244a5b71c362c5519b, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 1
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 0
+        IsNextLevel: 1
+    - name: "\u041F\u041B\u0415\u041C\u0415\u041D\u041D\u0410\u042F \u041E\u0421\u041D\u041E\u0412\u0410"
+      avatar: {fileID: 21300000, guid: bf3b96f18f1c3a94ca698d99418a38fc, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: e81a24b19a476054196f37b013aa3eb2, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u0420\u0410\u0421\u0426\u0412\u0415\u0422 \u0414\u0420\u0415\u0412\u041D\u0418\u0425
+        \u041F\u041E\u041B\u0418\u0421\u041E\u0412"
+      avatar: {fileID: 21300000, guid: bf3b96f18f1c3a94ca698d99418a38fc, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: bd3536c7962581342964f738568f5571, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 0
+        IsNextLevel: 1
+    - name: "\u0410\u0424\u0418\u041D\u0421\u041A\u0418\u0419 \u0417\u041E\u041B\u041E\u0422\u041E\u0419
+        \u0412\u0415\u041A"
+      avatar: {fileID: 21300000, guid: bf3b96f18f1c3a94ca698d99418a38fc, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 3f76c85771a54ad4eafad9272b59115b, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 80a47cf6a29bbd444aedf1a8f5116f6a, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u0421\u041F\u0410\u0420\u0422\u0410\u041D\u0421\u041A\u0410\u042F \u041C\u041E\u0429\u042C"
+      avatar: {fileID: 21300000, guid: bf3b96f18f1c3a94ca698d99418a38fc, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: acaeacc406bd1e147ace34879a982b78, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: e81a24b19a476054196f37b013aa3eb2, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 3a062ea5d2696cd408dcf041ac1adf4b, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u042D\u041F\u041E\u0425\u0410 \u0412\u0415\u041B\u0418\u041A\u0418\u0425
+        \u0424\u0418\u041B\u041E\u0421\u041E\u0424\u041E\u0412"
+      avatar: {fileID: 21300000, guid: bf3b96f18f1c3a94ca698d99418a38fc, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 55e3e525bc2d26244a5b71c362c5519b, type: 2}
+        amount: 0
+        IsNextLevel: 1
+    - name: "\u0413\u0420\u0415\u0427\u0415\u0421\u041A\u0410\u042F \u041A\u0423\u041B\u042C\u0422\u0423\u0420\u041D\u0410\u042F
+        \u042D\u041A\u0421\u041F\u0410\u041D\u0421\u0418\u042F"
+      avatar: {fileID: 21300000, guid: bf3b96f18f1c3a94ca698d99418a38fc, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 3f76c85771a54ad4eafad9272b59115b, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: f80ed07559fb6674281341dd1ca4fbb5, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u0420\u0418\u041C\u0421\u041A\u041E-\u0413\u0420\u0415\u0427\u0415\u0421\u041A\u0418\u0419
+        \u041F\u0415\u0420\u0418\u041E\u0414"
+      avatar: {fileID: 21300000, guid: bf3b96f18f1c3a94ca698d99418a38fc, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 55e3e525bc2d26244a5b71c362c5519b, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 3a062ea5d2696cd408dcf041ac1adf4b, type: 2}
+        amount: 0
+        IsNextLevel: 1
+    - name: "\u0412\u0420\u0415\u041C\u042F \u0420\u0418\u041C\u0421\u041A\u0418\u0425
+        \u0412\u041E\u0419\u041D"
+      avatar: {fileID: 21300000, guid: bf3b96f18f1c3a94ca698d99418a38fc, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: acaeacc406bd1e147ace34879a982b78, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: e81a24b19a476054196f37b013aa3eb2, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 9322b9f30dfde704bba35e6c8d348050, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u041A\u0420\u0418\u0417\u0418\u0421 \u0418 \u0421\u041F\u0410\u0414"
+      avatar: {fileID: 21300000, guid: bf3b96f18f1c3a94ca698d99418a38fc, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 1
+    - name: "\u042D\u041F\u041E\u0425\u0410 \u042D\u041B\u041B\u0418\u041D\u0418\u0417\u041C\u0410"
+      avatar: {fileID: 21300000, guid: bf3b96f18f1c3a94ca698d99418a38fc, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: b2521a3a731d97c4aa987aafb2f379bf, type: 2}
+        amount: 1
+        IsNextLevel: 0

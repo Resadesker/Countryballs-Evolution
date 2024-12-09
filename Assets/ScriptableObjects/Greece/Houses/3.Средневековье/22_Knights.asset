@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 958bd87ed9e444bcaa7d25943c2aed0d, type: 3}
+  m_Name: 22_Knights
+  m_EditorClassIdentifier: 
+  index: 22
+  title:
+    m_TableReference:
+      m_TableCollectionName: GUID:448c728061b121542a34c1526d90f776
+    m_TableEntryReference:
+      m_KeyId: 4764325773312
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  label: "\u0410\u0440\u0435\u043D\u0430"
+  country: 0
+  levels:
+  - avatar: {fileID: 21300000, guid: d75c5176e71a5bd4bb66c8c0ae1d7aad, type: 3}
+    UI_avatar: {fileID: 21300000, guid: d75c5176e71a5bd4bb66c8c0ae1d7aad, type: 3}
+    price: 13500000
+    animator: {fileID: 0}
+    income: 200000
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: 09f6aeaff8a6cb344af8e2395fe4aa60, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 09f6aeaff8a6cb344af8e2395fe4aa60, type: 3}
+    price: 496000000
+    animator: {fileID: 0}
+    income: 5000000
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: ef47873136527bd4aadf024a661a3162, type: 3}
+    UI_avatar: {fileID: 21300000, guid: ef47873136527bd4aadf024a661a3162, type: 3}
+    price: 4100000000
+    animator: {fileID: 0}
+    income: 10000000
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: 453410415740bb94d9e12a40582f3b2b, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 453410415740bb94d9e12a40582f3b2b, type: 3}
+    price: 8000000000000
+    animator: {fileID: 0}
+    income: 70000000000
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: 83993aeb0fc130f47a40619a8a94328a, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 83993aeb0fc130f47a40619a8a94328a, type: 3}
+    price: 550000000000000
+    animator: {fileID: 0}
+    income: 6000000000000
+    machineBonus: 0
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 958bd87ed9e444bcaa7d25943c2aed0d, type: 3}
+  m_Name: 9_Temple
+  m_EditorClassIdentifier: 
+  index: 9
+  title:
+    m_TableReference:
+      m_TableCollectionName: GUID:448c728061b121542a34c1526d90f776
+    m_TableEntryReference:
+      m_KeyId: 925082189824
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  label: "\u0425\u0440\u0430\u043C"
+  country: 0
+  levels:
+  - avatar: {fileID: 21300000, guid: 12e665a7509a47045b40dbdd9ae3c823, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 7202cc1cbda59d94683c01726270cab3, type: 3}
+    price: 800
+    animator: {fileID: 0}
+    income: 10
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: 273d90b15176d8946bcdee60fcdc18a5, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 7fa3f8518b2a2984fb5b69997d838cea, type: 3}
+    price: 2500
+    animator: {fileID: 0}
+    income: 25
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: b86cb1575336c4d47988a88133bfcea4, type: 3}
+    UI_avatar: {fileID: 21300000, guid: b86cb1575336c4d47988a88133bfcea4, type: 3}
+    price: 30000
+    animator: {fileID: 0}
+    income: 67
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: 40c9981f7f76fbb409b3894faf9e7f78, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 40c9981f7f76fbb409b3894faf9e7f78, type: 3}
+    price: 53000
+    animator: {fileID: 0}
+    income: 107
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: 414c5249a5a3c7840856dc76d0ab3216, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 414c5249a5a3c7840856dc76d0ab3216, type: 3}
+    price: 67000
+    animator: {fileID: 0}
+    income: 1507
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: 1962c24dae9bb9447aa6108206522044, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 1962c24dae9bb9447aa6108206522044, type: 3}
+    price: 33000000
+    animator: {fileID: 0}
+    income: 500000
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: 5795d843edb8b494888d6b4860a1a8ec, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 5795d843edb8b494888d6b4860a1a8ec, type: 3}
+    price: 359000000
+    animator: {fileID: 0}
+    income: 4000000
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: b1b486e1dc226c94ba9ede9c0a4cfbcd, type: 3}
+    UI_avatar: {fileID: 21300000, guid: b1b486e1dc226c94ba9ede9c0a4cfbcd, type: 3}
+    price: 2000000000
+    animator: {fileID: 0}
+    income: 7000000
+    machineBonus: 0
+  references:
+    version: 2
+    RefIds: []

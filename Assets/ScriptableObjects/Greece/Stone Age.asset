@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d4821c7cbd149f6b5c52e99bd14064d, type: 3}
+  m_Name: Stone Age
+  m_EditorClassIdentifier: 
+  _name: Stone Age
+  _buildingShopSlots:
+  - {fileID: 11400000, guid: 2f938018e0dc710498158da8a4c74e18, type: 2}
+  - {fileID: 11400000, guid: 260a4d860b532d04191a7c6003e8f3f1, type: 2}
+  - {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+  - {fileID: 11400000, guid: 48f12f68561530649877f9372ccc93b0, type: 2}
+  - {fileID: 11400000, guid: 3f76c85771a54ad4eafad9272b59115b, type: 2}
+  - {fileID: 11400000, guid: ae1211b3da07cfa42b7fb351f9771038, type: 2}
+  nextAgeAvatar: {fileID: -1456323062, guid: 0209ed2ef582fe34b9dc4115fa4acd91, type: 3}

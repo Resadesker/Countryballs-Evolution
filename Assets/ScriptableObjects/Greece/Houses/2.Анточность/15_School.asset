@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 958bd87ed9e444bcaa7d25943c2aed0d, type: 3}
+  m_Name: 15_School
+  m_EditorClassIdentifier: 
+  index: 15
+  title:
+    m_TableReference:
+      m_TableCollectionName: GUID:448c728061b121542a34c1526d90f776
+    m_TableEntryReference:
+      m_KeyId: 3497520136192
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  label: "\u0428\u043A\u043E\u043B\u0430"
+  country: 0
+  levels:
+  - avatar: {fileID: 21300000, guid: 4b03261f57a2bf74b8a0b58c71976440, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 4b03261f57a2bf74b8a0b58c71976440, type: 3}
+    price: 55000
+    animator: {fileID: 0}
+    income: 67
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: d0d64dc901c8f184c8bddeb691ec0969, type: 3}
+    UI_avatar: {fileID: 21300000, guid: d0d64dc901c8f184c8bddeb691ec0969, type: 3}
+    price: 1300000000
+    animator: {fileID: 0}
+    income: 2000000
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: dae72f4b05c648f4fb18558bff5ee279, type: 3}
+    UI_avatar: {fileID: 21300000, guid: dae72f4b05c648f4fb18558bff5ee279, type: 3}
+    price: 2300000000
+    animator: {fileID: 0}
+    income: 6000000
+    machineBonus: 0
+  - avatar: {fileID: 21300000, guid: 934ae99212c5ecf42aeb2f851f48878c, type: 3}
+    UI_avatar: {fileID: 21300000, guid: 934ae99212c5ecf42aeb2f851f48878c, type: 3}
+    price: 148000000000000
+    animator: {fileID: 0}
+    income: 1500000000000
+    machineBonus: 0
+  references:
+    version: 2
+    RefIds: []

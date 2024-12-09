@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: "\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435_es"
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 6cfe3660bcbf1924c9bb8bb1ab747a64, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 49919688704
+    m_Localized: "Este es un sol \u2013 al hacer clic en \xE9l, obtienes tantas monedas
+      como residentes tengas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48139699617792
+    m_Localized: "\xA1Vamos a arreglar eso!\n\nAl hacer clic en la pantalla, obtienes
+      monedas que puedes usar para comprar nuevos edificios!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48116802912256
+    m_Localized: "\xA1Hola! Encantado de conocerte, soy Grecia!\n\nComo puedes ver,
+      esta es una zona vac\xEDa, aqu\xED no vive nadie..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52289447526400
+    m_Localized: "Esta es una tienda, aqu\xED puedes comprar edificios para tu asentamiento.
+      Cada nueva casa te da m\xE1s dinero por click, \xA1y las casas te dan residentes!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52326705528832
+    m_Localized: "Aqu\xED puedes rastrear en qu\xE9 \xE9poca hist\xF3rica te encuentras."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112990815911936
+    m_Localized: "Ahora esta es tu territorio y el jefe aqu\xED solo eres t\xFA!
+      \n\n\xA1Te deseo buena suerte!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114910007787520
+    m_Localized: "En esta tienda puedes comprar varios bonos que te ayudar\xE1n a
+      mejorar tu ciudad m\xE1s r\xE1pido!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144409030164480
+    m_Localized: "\xA1Has desbloqueado las m\xE1quinas! Cuanto mejor sea tu puerto,
+      mayor ser\xE1 la cantidad de monedas que recibir\xE1s al hacer clic en los
+      barcos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7290171040071680
+    m_Localized: "Vaya, \xA1hace mucho tiempo que no nos ve\xEDamos! Veo que has
+      terminado de construir la ciudad. \xA1Es impresionante! Bueno, aqu\xED termina
+      nuestra aventura..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7291063030120448
+    m_Localized: "\xA1Has creado una ciudad muy genial! Si quieres intentarlo otra
+      vez, puedes encontrar el bot\xF3n en las m\xE1quinas. \xA1Hasta la pr\xF3xima!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

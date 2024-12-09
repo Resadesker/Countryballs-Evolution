@@ -1,0 +1,1127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d3fec4f618c0eb4bbbb2208819e13eb, type: 3}
+  m_Name: Greece
+  m_EditorClassIdentifier: 
+  name: 
+  ages:
+  - name: "\u041F\u0435\u0440\u0432\u043E\u0431\u044B\u0442\u043D\u043E\u0441\u0442\u044C"
+    avatar: {fileID: 21300000, guid: 99d1cfa167c50144f99649ecbb4b4ba5, type: 3}
+    eras:
+    - name: "\u0420\u0430\u043D\u043D\u0438\u0439 \u041F\u0430\u043B\u0435\u043E\u043B\u0438\u0442"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:5ed42f3ec8bb85a4b87c208160453abb
+        m_TableEntryReference:
+          m_KeyId: 14087749632
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 1922164812, guid: 4fae95210a25ea742ab64fa4970eb009, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 2f938018e0dc710498158da8a4c74e18, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u041F\u043E\u0437\u0434\u043D\u0438\u0439 \u041F\u0430\u043B\u0435\u043E\u043B\u0438\u0442"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:5ed42f3ec8bb85a4b87c208160453abb
+        m_TableEntryReference:
+          m_KeyId: 1067390730240
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: -235740185, guid: 4fae95210a25ea742ab64fa4970eb009, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 48f12f68561530649877f9372ccc93b0, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u041C\u0435\u0437\u043E\u043B\u0438\u0442"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:5ed42f3ec8bb85a4b87c208160453abb
+        m_TableEntryReference:
+          m_KeyId: 1102996176896
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: -1863354089, guid: 4fae95210a25ea742ab64fa4970eb009, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 3f76c85771a54ad4eafad9272b59115b, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u041D\u0435\u043E\u043B\u0438\u0442"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:5ed42f3ec8bb85a4b87c208160453abb
+        m_TableEntryReference:
+          m_KeyId: 1132188532736
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: -362820302, guid: 4fae95210a25ea742ab64fa4970eb009, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 48f12f68561530649877f9372ccc93b0, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: bd3536c7962581342964f738568f5571, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: ae1211b3da07cfa42b7fb351f9771038, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u041C\u0435\u0434\u043D\u044B\u0439 \u0412\u0435\u043A"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:5ed42f3ec8bb85a4b87c208160453abb
+        m_TableEntryReference:
+          m_KeyId: 1183979798528
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 189706353, guid: 4fae95210a25ea742ab64fa4970eb009, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 48f12f68561530649877f9372ccc93b0, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u0420\u0430\u043D\u043D\u0438\u0439 \u0411\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439
+        \u0412\u0435\u043A"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:5ed42f3ec8bb85a4b87c208160453abb
+        m_TableEntryReference:
+          m_KeyId: 1213306372096
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: e3e1f5c41699ef04a84efbe2ffb89998, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: acaeacc406bd1e147ace34879a982b78, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 55e3e525bc2d26244a5b71c362c5519b, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439 \u0411\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439
+        \u0412\u0435\u043A"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:5ed42f3ec8bb85a4b87c208160453abb
+        m_TableEntryReference:
+          m_KeyId: 1252577640448
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 48bf7ba5f8599f64f83737b46edcffd4, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 3f76c85771a54ad4eafad9272b59115b, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: acaeacc406bd1e147ace34879a982b78, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u041F\u043E\u0437\u0434\u043D\u0438\u0439 \u0411\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439
+        \u0412\u0435\u043A"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:5ed42f3ec8bb85a4b87c208160453abb
+        m_TableEntryReference:
+          m_KeyId: 1305258098688
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: bf3b96f18f1c3a94ca698d99418a38fc, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 55e3e525bc2d26244a5b71c362c5519b, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u0416\u0435\u043B\u0435\u0437\u043D\u044B\u0439 \u0412\u0435\u043A"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:5ed42f3ec8bb85a4b87c208160453abb
+        m_TableEntryReference:
+          m_KeyId: 1344529367040
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: b36f8650688522d4a9b77b4ba36c0f18, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 2f938018e0dc710498158da8a4c74e18, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: acaeacc406bd1e147ace34879a982b78, type: 2}
+        amount: 0
+        IsNextLevel: 0
+  - name: "\u0410\u043D\u0442\u0438\u0447\u043D\u043E\u0441\u0442\u044C"
+    avatar: {fileID: 21300000, guid: 5c6c409a93231e444802cc72f6748792, type: 3}
+    eras:
+    - name: "\u041F\u043B\u0435\u043C\u0435\u043D\u043D\u0430\u044F \u041E\u0441\u043D\u043E\u0432\u0430"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4e03f84cd84fa654e996b16c42f52875
+        m_TableEntryReference:
+          m_KeyId: 21465530368
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 0c38594a412f05f4cbcb92ca436b7358, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: e81a24b19a476054196f37b013aa3eb2, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 4bc032ba241cae84ebf7d20981ba39b8, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u0420\u0430\u0441\u0446\u0432\u0435\u0442 \u0414\u0440\u0435\u0432\u043D\u0438\u0445
+        \u041F\u043E\u043B\u0438\u0441\u043E\u0432"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4e03f84cd84fa654e996b16c42f52875
+        m_TableEntryReference:
+          m_KeyId: 114335809536
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: c6cd60f1866aaa348ad8750c08424e67, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 48f12f68561530649877f9372ccc93b0, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: bd3536c7962581342964f738568f5571, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u0410\u0444\u0438\u043D\u0441\u043A\u0438\u0439 \u0417\u043E\u043B\u043E\u0442\u043E\u0439
+        \u0412\u0435\u043A"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4e03f84cd84fa654e996b16c42f52875
+        m_TableEntryReference:
+          m_KeyId: 133369561088
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 04471cfc31dc64646b83f5e37d8d5455, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 3f76c85771a54ad4eafad9272b59115b, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 80a47cf6a29bbd444aedf1a8f5116f6a, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u0421\u043F\u0430\u0440\u0442\u0430\u043D\u0441\u043A\u0430\u044F \u041C\u043E\u0449\u044C"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4e03f84cd84fa654e996b16c42f52875
+        m_TableEntryReference:
+          m_KeyId: 158191452160
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: c123a731b8f6d894cb12e76fa47108ef, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: acaeacc406bd1e147ace34879a982b78, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: e81a24b19a476054196f37b013aa3eb2, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 3a062ea5d2696cd408dcf041ac1adf4b, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u042D\u043F\u043E\u0445\u0430 \u0412\u0435\u043B\u0438\u043A\u0438\u0445
+        \u0424\u0438\u043B\u043E\u0441\u043E\u0444\u043E\u0432"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4e03f84cd84fa654e996b16c42f52875
+        m_TableEntryReference:
+          m_KeyId: 190206574592
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 06cb8b8a6960d0f46ac9e5a5929a8cc0, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 55e3e525bc2d26244a5b71c362c5519b, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 4bc032ba241cae84ebf7d20981ba39b8, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u0413\u0440\u0435\u0447\u0435\u0441\u043A\u0430\u044F \u041A\u0443\u043B\u044C\u0442\u0443\u0440\u043D\u0430\u044F
+        \u042D\u043A\u0441\u043F\u0430\u043D\u0441\u0438\u044F"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4e03f84cd84fa654e996b16c42f52875
+        m_TableEntryReference:
+          m_KeyId: 211819823104
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 1b7e142840d6c524ab8efd49f5773e66, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 3f76c85771a54ad4eafad9272b59115b, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: f80ed07559fb6674281341dd1ca4fbb5, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u0420\u0438\u043C\u0441\u043A\u043E-\u0413\u0440\u0435\u0447\u0435\u0441\u043A\u0438\u0439-\u041F\u0435\u0440\u0438\u043E\u0434"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4e03f84cd84fa654e996b16c42f52875
+        m_TableEntryReference:
+          m_KeyId: 230727745536
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: d8b4e4bc115fe794482682938e11a968, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 3a062ea5d2696cd408dcf041ac1adf4b, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 5834487429dc6ee428b7d76a6bb6c9d1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u0412\u0440\u0435\u043C\u044F \u0420\u0438\u043C\u0441\u043A\u0438\u0439
+        \u0412\u043E\u0439\u043D"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4e03f84cd84fa654e996b16c42f52875
+        m_TableEntryReference:
+          m_KeyId: 258980577280
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: ef2ec1130b2fea247bbb7cc2e98cae2a, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: acaeacc406bd1e147ace34879a982b78, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 55e3e525bc2d26244a5b71c362c5519b, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: e81a24b19a476054196f37b013aa3eb2, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u041A\u0440\u0438\u0437\u0438\u0441 \u0438 \u0421\u043F\u0430\u0434"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4e03f84cd84fa654e996b16c42f52875
+        m_TableEntryReference:
+          m_KeyId: 280019206144
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: d33b4cab0f9c5a346be373a104d09892, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 9322b9f30dfde704bba35e6c8d348050, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 4bc032ba241cae84ebf7d20981ba39b8, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u042D\u043F\u043E\u0445\u0430 \u042D\u043B\u043B\u0438\u043D\u0438\u0437\u043C\u0430"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4e03f84cd84fa654e996b16c42f52875
+        m_TableEntryReference:
+          m_KeyId: 296024670208
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 92db800598c11ea4091e0ec85b63c3cc, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: b2521a3a731d97c4aa987aafb2f379bf, type: 2}
+        amount: 0
+        IsNextLevel: 0
+  - name: "\u0421\u0440\u0435\u0434\u043D\u0435\u0432\u0435\u043A\u043E\u0432\u044C\u0435"
+    avatar: {fileID: 21300000, guid: f4f914ad27fefe14fa847ae487a2cbf7, type: 3}
+    eras:
+    - name: "\u0412\u0438\u0437\u0430\u043D\u0442\u0438\u0439\u0441\u043A\u0430\u044F
+        \u0418\u043C\u043F\u0435\u0440\u0438\u044F"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:df8dac3b805190a44ab59b2499c2689a
+        m_TableEntryReference:
+          m_KeyId: 9113305088
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 2880f546624bf7645bce07212f70150e, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 48f12f68561530649877f9372ccc93b0, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 8aefb6e28f6f6024e983ff1c32f8d723, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: e282f51090c20f748a6ca318c17933d1, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u041A\u043E\u043D\u0435\u0446 \u0422\u0451\u043C\u043D\u044B\u0445
+        \u0412\u0435\u043A\u043E\u0432"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:df8dac3b805190a44ab59b2499c2689a
+        m_TableEntryReference:
+          m_KeyId: 1633894400000
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: b0c9e87ebae0d36418ec21bec06505d0, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: bd3536c7962581342964f738568f5571, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 1f78994d49fa7bf4c9040c24724f0245, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 55e3e525bc2d26244a5b71c362c5519b, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 498f4b34ee29be440bbcb89be1a4d6c0, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u0420\u0430\u043D\u043D\u0435\u0435 \u0421\u0440\u0435\u0434\u043D\u0435\u0432\u0435\u043A\u043E\u0432\u044C\u0435"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:df8dac3b805190a44ab59b2499c2689a
+        m_TableEntryReference:
+          m_KeyId: 356166562611200
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 48178e1074cd9f5409b10c3cd7210d99, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: e81a24b19a476054196f37b013aa3eb2, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 3a062ea5d2696cd408dcf041ac1adf4b, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: c7aff9229efbb374380b69923abeabc4, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u0421\u0440\u0435\u0434\u043D\u0438\u0435 \u0412\u0435\u043A\u0430"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:df8dac3b805190a44ab59b2499c2689a
+        m_TableEntryReference:
+          m_KeyId: 1676206538752
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 93b14b251452b0042abdde39dbdc40ca, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: acaeacc406bd1e147ace34879a982b78, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: e0e688f8a6fbb4d41b31151b9fe20762, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u041F\u043E\u0437\u0434\u043D\u0438\u0439 \u0412\u0438\u0437\u0430\u043D\u0442\u0438\u0439\u0441\u043A\u0438\u0439
+        \u041F\u0435\u0440\u0438\u043E\u0434"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:df8dac3b805190a44ab59b2499c2689a
+        m_TableEntryReference:
+          m_KeyId: 1705956737024
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: a8bf2e83440189a46a0bc3899f1c3c6c, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 48f12f68561530649877f9372ccc93b0, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: bd3536c7962581342964f738568f5571, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 8aefb6e28f6f6024e983ff1c32f8d723, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 4a8fe5b5e9e1c304da43a87177f6017f, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 4bc032ba241cae84ebf7d20981ba39b8, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u0420\u0430\u043D\u043D\u0438\u0439 \u0420\u0435\u043D\u0435\u0441\u0441\u0430\u043D\u0441"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:df8dac3b805190a44ab59b2499c2689a
+        m_TableEntryReference:
+          m_KeyId: 1726269751296
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: f60d4c70551648d48bd295f9df4e88a7, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 0
+        IsNextLevel: 1
+      - building: {fileID: 11400000, guid: 55e3e525bc2d26244a5b71c362c5519b, type: 2}
+        amount: 1
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: f80ed07559fb6674281341dd1ca4fbb5, type: 2}
+        amount: 1
+        IsNextLevel: 0
+    - name: "\u041F\u043E\u0437\u0434\u043D\u0438\u0439 \u0420\u0435\u043D\u0435\u0441\u0441\u0430\u043D\u0441"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:df8dac3b805190a44ab59b2499c2689a
+        m_TableEntryReference:
+          m_KeyId: 1745324474368
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 1310f21b4edffb644b97bb3295f6a1dd, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: bd3536c7962581342964f738568f5571, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: e81a24b19a476054196f37b013aa3eb2, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: e282f51090c20f748a6ca318c17933d1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u042D\u043F\u043E\u0445\u0430 \u0412\u0435\u043B\u0438\u043A\u0438\u0445
+        \u0413\u0435\u043E\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0438\u0445
+        \u041E\u0442\u043A\u0440\u044B\u0442\u0438\u0439"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:df8dac3b805190a44ab59b2499c2689a
+        m_TableEntryReference:
+          m_KeyId: 1801242935296
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: e8207044821aa9a4ab49fb49dd847f2d, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 48f12f68561530649877f9372ccc93b0, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 55e3e525bc2d26244a5b71c362c5519b, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 4a8fe5b5e9e1c304da43a87177f6017f, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 1f78994d49fa7bf4c9040c24724f0245, type: 2}
+        amount: 0
+        IsNextLevel: 0
+  - name: "\u041D\u043E\u0432\u043E\u0435 \u0412\u0440\u0435\u043C\u044F"
+    avatar: {fileID: 21300000, guid: 9bf526ef87b65aa499f35cb3165117e5, type: 3}
+    eras:
+    - name: "\u0412\u0435\u043A \u041D\u0430\u0443\u0447\u043D\u044B\u0445 \u041E\u0442\u043A\u0440\u044B\u0442\u0438\u0439"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:8bcfdc26ae277304b843765bc24d8024
+        m_TableEntryReference:
+          m_KeyId: 11017519104
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 894da290a3cabb641a1a360e9f00b3fa, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 48f12f68561530649877f9372ccc93b0, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 4bc032ba241cae84ebf7d20981ba39b8, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 5834487429dc6ee428b7d76a6bb6c9d1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u042D\u043F\u043E\u0445\u0430 \u041F\u0440\u043E\u0441\u0432\u0435\u0449\u0435\u043D\u0438\u044F
+        \u0438 \u0420\u0435\u0444\u043E\u0440\u043C"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:8bcfdc26ae277304b843765bc24d8024
+        m_TableEntryReference:
+          m_KeyId: 717493501952
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 30a4b7266ffdb204da7c7619e74121a0, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: bd3536c7962581342964f738568f5571, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 9322b9f30dfde704bba35e6c8d348050, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: e282f51090c20f748a6ca318c17933d1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: da517a93ee11445429e70c37fbb9902d, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: bc8dde83f3efdd84d889275ca790055a, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u0420\u0430\u043D\u043D\u0438\u0439 \u0418\u043D\u0434\u0443\u0441\u0442\u0440\u0438\u0430\u043B\u044C\u043D\u044B\u0439
+        \u041F\u0435\u0440\u0438\u043E\u0434"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:8bcfdc26ae277304b843765bc24d8024
+        m_TableEntryReference:
+          m_KeyId: 740780277760
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 4a0750788ac5a234b903d0ea80beb1e4, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: e81a24b19a476054196f37b013aa3eb2, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 498f4b34ee29be440bbcb89be1a4d6c0, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: e0e688f8a6fbb4d41b31151b9fe20762, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 202794114b79c7e45a9be83172f33164, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u041F\u0440\u043E\u043C\u044B\u0448\u043B\u0435\u043D\u043D\u0430\u044F
+        \u0420\u0435\u0432\u043E\u043B\u044E\u0446\u0438\u044F"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:8bcfdc26ae277304b843765bc24d8024
+        m_TableEntryReference:
+          m_KeyId: 765035937792
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 4d8aff5b6ed603b45aad38b4c650bd53, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: acaeacc406bd1e147ace34879a982b78, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 55e3e525bc2d26244a5b71c362c5519b, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 1f78994d49fa7bf4c9040c24724f0245, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u042D\u043A\u043E\u043D\u043E\u043C\u0438\u0447\u0435\u0441\u043A\u0438\u0439
+        \u0420\u043E\u0441\u0442"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:8bcfdc26ae277304b843765bc24d8024
+        m_TableEntryReference:
+          m_KeyId: 835475079168
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 0161cd15fd8a84a409a4a288b3522191, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 9322b9f30dfde704bba35e6c8d348050, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: bc8dde83f3efdd84d889275ca790055a, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u0420\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u041E\u0431\u0440\u0430\u0437\u0438\u0432\u0430\u043D\u0438\u044F
+        \u0438 \u041A\u0443\u043B\u044C\u0442\u0443\u0440\u044B"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:8bcfdc26ae277304b843765bc24d8024
+        m_TableEntryReference:
+          m_KeyId: 873857155072
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 111f33d57b06d3748a56c86407e8d12e, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 48f12f68561530649877f9372ccc93b0, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 3a062ea5d2696cd408dcf041ac1adf4b, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: c7aff9229efbb374380b69923abeabc4, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 48c49ea61db48694da57f7f9a24846f8, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u042D\u043F\u043E\u0445\u0430 \u041C\u043E\u0434\u0435\u0440\u043D\u0438\u0437\u0430\u0446\u0438\u0438"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:8bcfdc26ae277304b843765bc24d8024
+        m_TableEntryReference:
+          m_KeyId: 895298437120
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: c38e34ea64633e44d81c69a400a1cfd1, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 498f4b34ee29be440bbcb89be1a4d6c0, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: da517a93ee11445429e70c37fbb9902d, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u041F\u043E\u0437\u0434\u043D\u0438\u0439 \u0418\u043D\u0434\u0443\u0441\u0442\u0440\u0438\u0430\u043B\u044C\u043D\u044B\u0439
+        \u041F\u0435\u0440\u0438\u043E\u0434"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:8bcfdc26ae277304b843765bc24d8024
+        m_TableEntryReference:
+          m_KeyId: 912910319616
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 305071c349871304eaf25440ba9612f9, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: bd3536c7962581342964f738568f5571, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: e81a24b19a476054196f37b013aa3eb2, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 4a8fe5b5e9e1c304da43a87177f6017f, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 1f78994d49fa7bf4c9040c24724f0245, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 38a0c39fac96f8740aabf439ca542540, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u0413\u0440\u0435\u0446\u0438\u044F \u0432 \u043A\u043E\u043D\u0446\u0435
+        \u0425IX \u0432\u0435\u043A\u0430"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:8bcfdc26ae277304b843765bc24d8024
+        m_TableEntryReference:
+          m_KeyId: 959001526272
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 0e4b713e609dc3644a2f7b2aac7b94a7, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 4bc032ba241cae84ebf7d20981ba39b8, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: f80ed07559fb6674281341dd1ca4fbb5, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 202794114b79c7e45a9be83172f33164, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u041F\u0435\u0440\u0432\u0430\u044F \u041C\u0438\u0440\u043E\u0432\u0430\u044F
+        \u0412\u043E\u0439\u043D\u0430"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:8bcfdc26ae277304b843765bc24d8024
+        m_TableEntryReference:
+          m_KeyId: 982573514752
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: a9745139629c461458f10fb18711a784, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 48f12f68561530649877f9372ccc93b0, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: da517a93ee11445429e70c37fbb9902d, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 48c49ea61db48694da57f7f9a24846f8, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: bc8dde83f3efdd84d889275ca790055a, type: 2}
+        amount: 0
+        IsNextLevel: 0
+  - name: "\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u044C"
+    avatar: {fileID: 21300000, guid: d5149d5fd5c40c64483ea967ef79fafb, type: 3}
+    eras:
+    - name: "\u041C\u0435\u0436\u0432\u043E\u0435\u043D\u043D\u044B\u0439 \u041F\u0435\u0440\u0438\u043E\u0434"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4ab4996fd25b0db4487eef6250cc67c5
+        m_TableEntryReference:
+          m_KeyId: 42315415552
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 62acf47272f5f5548b2c0c484d4847ed, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: acaeacc406bd1e147ace34879a982b78, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: e282f51090c20f748a6ca318c17933d1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: bc8dde83f3efdd84d889275ca790055a, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "\u0412\u0442\u043E\u0440\u0430\u044F \u041C\u0438\u0440\u043E\u0432\u0430\u044F
+        \u0412\u043E\u0439\u043D\u0430"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4ab4996fd25b0db4487eef6250cc67c5
+        m_TableEntryReference:
+          m_KeyId: 47495380992
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 8917505ac1fa5554d856e35c626666a7, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 48f12f68561530649877f9372ccc93b0, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: f80ed07559fb6674281341dd1ca4fbb5, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 202794114b79c7e45a9be83172f33164, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 58f57d43182f6ae4b80cf7e5e667c42e, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: bc8dde83f3efdd84d889275ca790055a, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 3032782e5dc98754b835506f291a3d31, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: 1946 - 1959
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4ab4996fd25b0db4487eef6250cc67c5
+        m_TableEntryReference:
+          m_KeyId: 259307732992
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 3a20b37b36c4e814b9facdc17711eeb7, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: e0e688f8a6fbb4d41b31151b9fe20762, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: bc8dde83f3efdd84d889275ca790055a, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 38a0c39fac96f8740aabf439ca542540, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 790056c65a2024140830c851f8284ac1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 47a51645cdb016149a782ee694fca005, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: 1960 - 1975
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4ab4996fd25b0db4487eef6250cc67c5
+        m_TableEntryReference:
+          m_KeyId: 288596557824
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: f01b34366f1e3764ba3f7026fb0888f5, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 4bc032ba241cae84ebf7d20981ba39b8, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 8aefb6e28f6f6024e983ff1c32f8d723, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: e282f51090c20f748a6ca318c17933d1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 1f78994d49fa7bf4c9040c24724f0245, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 58f57d43182f6ae4b80cf7e5e667c42e, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: bc8dde83f3efdd84d889275ca790055a, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: 1976 - 1989
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4ab4996fd25b0db4487eef6250cc67c5
+        m_TableEntryReference:
+          m_KeyId: 314370555904
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: a6016db5163969741a71ea4327e4f8bb, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: c7aff9229efbb374380b69923abeabc4, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 4a8fe5b5e9e1c304da43a87177f6017f, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 202794114b79c7e45a9be83172f33164, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: bc8dde83f3efdd84d889275ca790055a, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: e8d906cef8f68614490bcfdcd17b7abd, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: 1990 - 1999
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4ab4996fd25b0db4487eef6250cc67c5
+        m_TableEntryReference:
+          m_KeyId: 473162711040
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 26dad794a1e0d8d4a904492481af30fd, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: acaeacc406bd1e147ace34879a982b78, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: f80ed07559fb6674281341dd1ca4fbb5, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 58f57d43182f6ae4b80cf7e5e667c42e, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 790056c65a2024140830c851f8284ac1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: ca23042cd3417234da45826ffbc8c0cc, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: 2000 - 2008
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4ab4996fd25b0db4487eef6250cc67c5
+        m_TableEntryReference:
+          m_KeyId: 504167006208
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 9ab880fe492772f409f31062ee1c07ab, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 9322b9f30dfde704bba35e6c8d348050, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: e282f51090c20f748a6ca318c17933d1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 202794114b79c7e45a9be83172f33164, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: bc8dde83f3efdd84d889275ca790055a, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: 2009 - 2013
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4ab4996fd25b0db4487eef6250cc67c5
+        m_TableEntryReference:
+          m_KeyId: 543354388480
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: 3e1a462ab3cb5754394a0be87ddbbdd4, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: 48f12f68561530649877f9372ccc93b0, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 4a8fe5b5e9e1c304da43a87177f6017f, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 6b2af539743d1c243a20a0d31f42445e, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: bc8dde83f3efdd84d889275ca790055a, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 38a0c39fac96f8740aabf439ca542540, type: 2}
+        amount: 0
+        IsNextLevel: 0
+    - name: "2014 - \u0441\u0435\u0439\u0447\u0430\u0441"
+      title:
+        m_TableReference:
+          m_TableCollectionName: GUID:4ab4996fd25b0db4487eef6250cc67c5
+        m_TableEntryReference:
+          m_KeyId: 566167207936
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      avatar: {fileID: 21300000, guid: b0753a6ad91240b40ad392b8b538ee0b, type: 3}
+      buildingShopSlots:
+      - building: {fileID: 11400000, guid: a9604147d4c266d4fbe7671fcde610f1, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 9ba3a23016435174faa2121e46aad4f9, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 202794114b79c7e45a9be83172f33164, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: 48c49ea61db48694da57f7f9a24846f8, type: 2}
+        amount: 0
+        IsNextLevel: 0
+      - building: {fileID: 11400000, guid: f43cf1b38fc02a445af6fba4a0dedf49, type: 2}
+        amount: 0
+        IsNextLevel: 0
+  references:
+    version: 2
+    RefIds: []

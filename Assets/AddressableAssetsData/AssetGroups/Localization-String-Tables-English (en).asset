@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-English (en)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-English (en)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d1b6b4f9689b14c48817a7a4e4df8079
+  m_SerializeEntries:
+  - m_GUID: 012dfda1ff61b6d4e8d50dd097267b63
+    m_Address: "\u041D\u043E\u0432\u043E\u0435 \u0412\u0440\u0435\u043C\u044F \u042D\u043F\u043E\u0445\u0438_en"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: 076bffbda76074445b4d198680f3442e
+    m_Address: "\u0410\u043D\u0442\u0438\u0447\u043D\u043E\u0441\u0442\u044C \u042D\u043F\u043E\u0445\u0438_en"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: 56c43fd8071a014449432827e02b9cfd
+    m_Address: "\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435_en"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: 9e5b3333705569d49805f6ba0259c159
+    m_Address: Locales_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: c8f36f302a5d14944aba50bf7d271bc3
+    m_Address: "\u0421\u0440\u0435\u0434\u043D\u0435\u0432\u0435\u043A\u043E\u0432\u044C\u0435
+      \u042D\u043F\u043E\u0445\u0438_en"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: e5d91e2a652360547a58846a99f5bcf5
+    m_Address: "\u041F\u0435\u0440\u0432\u043E\u0431\u044B\u0442\u043D\u043E\u0441\u0442\u044C
+      \u042D\u043F\u043E\u0445\u0438_en"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: ec67df7c6a337654781b06aebe2fb6db
+    m_Address: UI-Automatic_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  - m_GUID: f98107ec73d170e4581b0bb6f0f52dca
+    m_Address: "\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u044C
+      \u042D\u043F\u043E\u0445\u0438_en"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: a9e68051b2f5daf47a082d5c23e5cc5f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7494c55bb23d4734681e7592f442ef6a, type: 2}
+    - {fileID: 11400000, guid: 3160d04ce72b8a54a87370000e9f4d22, type: 2}
